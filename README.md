@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with experti
 - **Languages:** JavaScript (ES6+), TypeScript, Python
 - **Tools & Others:** Git, Docker, CI/CD, SEO, Accessibility, Three.js, D3.js
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhv749&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhv749&langs_count=20&layout=compact&theme=radical)
 
 ### 🛠️ Skills
 
