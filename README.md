@@ -4,6 +4,21 @@
 
 I'm a passionate Full Stack Developer with expertise in the MERN stack, currently expanding my skills in AI and Machine Learning. I'm looking to collaborate on innovative projects that challenge me and push the boundaries of technology.
 
+> ### 📜 The Journey
+> Ever wondered how it all came together? Check out the **[Interactive Timeline & Journey →](https://saurabhv749.github.io/timeline)** to experience a scroll-animated walk-through of my milestones, projects, and evolution as a developer.
+
+### ⚡ Live Demonstrations
+
+| Project | What it does | Try it Live |
+| :--- | :--- | :--- |
+| **InEx** | Offline-first, privacy-focused finance tracker & in-browser code agent | [🔗 Live Demo](https://saurabhv749.github.io/inex/) |
+| **Kalpana-256** | CPU-optimized lightweight text-to-image diffusion model | [🔗 Live Demo](https://huggingface.co/sam749/ArtFusion-onnx-int8) |
+| **Supertonic3-voice-clone** | Custom voice styles for Supertonic-3 model | [🔗 Live Demo](https://huggingface.co/spaces/sam749/supertonic3-custom-styles) |
+| **Aura TTS** | Next.jS platform offering cost-effective, Text-to-Speech service | [🔗 Live Demo](https://aura-tts.vercel.app/) |
+| **Hindi-English Translator** | Better English-Hindi conversations translation | [🔗 Live Demo](https://huggingface.co/spaces/sam749/indictrans2-conversation) |
+| **Jet video player** | Minimalistic video player for android TVs | [🔗 Live Demo](https://github.com/saurabhv749/jet-video-player) |
+| **Miranda-paper-portfolio** | Interactive paper-style web portfolio with editorial design | [🔗 Live Demo](https://saurabhv749.github.io/miranda-paper-portfolio/) |
+
 ### 💻 Tech Stack
 
 - **Frontend:** React.js, Next.js, Redux, HTML5, CSS3, SASS/SCSS, Tailwind CSS
