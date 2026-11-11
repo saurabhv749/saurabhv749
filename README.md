@@ -11,6 +11,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, currentl
 
 | Project | What it does | Try it Live |
 | :--- | :--- | :--- |
+| **Papertrail** | Local-first, document-ai for parsing bills and invoices including messy layouts | [🔗 Live Demo](https://saurabhv749.github.io/Papertrail/) |
 | **InEx** | Offline-first, privacy-focused finance tracker & in-browser code agent | [🔗 Live Demo](https://saurabhv749.github.io/inex/) |
 | **Kalpana-256** | CPU-optimized lightweight text-to-image diffusion model | [🔗 Live Demo](https://huggingface.co/sam749/ArtFusion-onnx-int8) |
 | **Supertonic3-voice-clone** | Custom voice styles for Supertonic-3 model | [🔗 Live Demo](https://huggingface.co/spaces/sam749/supertonic3-custom-styles) |
